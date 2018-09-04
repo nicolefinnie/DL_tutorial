@@ -1,2 +1,2 @@
-# DL_tutorial
+# DL tutorial
 tutorials and slides for deep learning
